@@ -1,1 +1,1 @@
-# mickey-mouse-tribute-page
+This is a Mickey Mouse Tribute page.
